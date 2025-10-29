@@ -6,6 +6,9 @@
    Assigment 2
 • https://js-2-asslgment.netlify.app/ 
 
+   Assigment 3
+• https://js-3-assigment.netlify.app/
+
    Assigment 4
 • https://js-4-assigment.netlify.app/ 
 
