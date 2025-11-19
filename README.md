@@ -28,8 +28,10 @@ This repo includes all my JavaScript practice assignments, covering the basics t
 | 7️⃣ | Assigment-7 | [View](https://js-7-assigment.netlify.app/) |
 | 8️⃣ | Assigment-8 | [View](https://js-8-assigment.netlify.app/) |
 | 9️⃣ | Assigment-9 | [View](https://js-9-assigment.netlify.app/) |
-| 🔟 | Game-Assigment | [View](https://js-10-assigment.netlify.app/) |
-| 1️⃣1️⃣ | Assigment-10 | [View](https://js-10-asslgment.netlify.app/) |
+| 🔟 | Game-Assigment | [View](https://js-game-assigment.netlify.app/) |
+| 1️⃣1️⃣ | Assigment-10 | [View](https://js-10-assigment.netlify.app/) |
+| 1️⃣2️⃣ | Assigment-11 | [View](https://js-11-assigment.netlify.app/) |
+| 1️⃣3️⃣ | Ramadan-Assigment | [View](https://js-ramadan-assigment.netlify.app/) |
 
 ## 🧠 Purpose
 These assignments help me strengthen my **JavaScript fundamentals**, improve **problem-solving skills**, and build a solid base for **front-end and back-end development**.
