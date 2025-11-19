@@ -15,7 +15,7 @@ This repo includes all my JavaScript practice assignments, covering the basics t
 ---
 
 
-## 🧩 Completed Assignments (1–11)
+## 🧩 Completed Assignments (1–13)
 
 | # | Assignment Name | Link |
 |---|------------------|------|
