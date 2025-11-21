@@ -15,7 +15,7 @@ This repo includes all my JavaScript practice assignments, covering the basics t
 ---
 
 
-## 🧩 Completed Assignments (1–13)
+## 🧩 Completed Assignments (1–14)
 
 | # | Assignment Name | Link |
 |---|------------------|------|
@@ -32,6 +32,7 @@ This repo includes all my JavaScript practice assignments, covering the basics t
 | 1️⃣1️⃣ | Assigment-10 | [View](https://js-10-assigment.netlify.app/) |
 | 1️⃣2️⃣ | Assigment-11 | [View](https://js-11-assigment.netlify.app/) |
 | 1️⃣3️⃣ | Ramadan-Assigment | [View](https://js-ramadan-assigment.netlify.app/) |
+| 1️⃣4️⃣ | Assigment-12 | [View](https://js-12-assigment.netlify.app/) |
 
 ## 🧠 Purpose
 These assignments help me strengthen my **JavaScript fundamentals**, improve **problem-solving skills**, and build a solid base for **front-end and back-end development**.
