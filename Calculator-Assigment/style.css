@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #1e004e 0%, #3a0050 30%, #00224d 100%);
+    font-family: 'Inter', sans-serif;
+}
+
+.calculator {
+    width: 400px;
+    background: rgba(4, 0, 78, 0.4);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    border-radius: 10px;
+    padding: 40px 20px;
+}
+
+
+
+input {
+    height: 80px;
+    background: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(8px);
+    outline: none;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    color: rgb(0, 153, 255);
+    font-size: 35px;
+    width: 100%;
+    text-align: right;
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+input::placeholder {
+    color: rgb(0, 153, 255);
+}
+
+
+.btn button {
+    background: rgba(255, 255, 255, 0.05);
+    transition: all 0.1s ease-in-out;
+    color: #fcfcfd;
+    font-size: 20px;
+    font-weight: 500;
+    height: 50px;
+    width: 80px;
+    margin: 8px 6px 8px 0px;
+    outline: none;
+    border: none;
+    border-radius: 50px;
+}
+
+.btn button:hover {
+    background: rgba(255, 255, 255, 0.15);
+}
+
+#ac {
+    background-color: #184d74 !important;
+    transition: all 0.2s ease-in-out;
+}
+
+
+.btn button#ac:hover {
+    background-color: #2870a3 !important;
+}
+
+#four {
+    background-color: #90014F;
+}
+
+.btn button#four:hover {
+    background-color: #b60265 !important;
+}

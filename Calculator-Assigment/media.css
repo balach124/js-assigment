@@ -1,0 +1,17 @@
+@media only screen and  (max-width:768px) {
+    body{
+        overflow-x: hidden;
+    }
+    .calculator{
+        width: 350px;
+        
+    }
+    .btn {
+        width: 100%;
+        margin-left: 20px;
+    }
+    .btn button {
+        height: 40px;
+        width: 60px;
+    }
+}
