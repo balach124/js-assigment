@@ -1,0 +1,228 @@
+  * {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+  }
+
+  body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #f2f4f7;
+      color: #1c1e21;
+      font-family: Arial, Helvetica, sans-serif;
+      min-height: 100vh;
+      padding: 20px;
+  }
+
+  .main-content {
+      display: flex;
+      align-items: center;
+      gap: 30px;
+      position: relative;
+      left: 0;
+      flex-wrap: wrap;
+  }
+
+  .main-content h1 {
+      color: #0866ff;
+      font-size: 60px;
+      font-family: Arial, sans-serif;
+  }
+
+  /* form container */
+  form {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      gap: 20px;
+      justify-content: center;
+      background-color: #fff;
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+      max-width: 400px;
+      width: 100%;
+      border-radius: 10px;
+      padding: 20px;
+  }
+
+  .h1 {
+      font-size: 25px;
+      text-align: center;
+  }
+
+  .fp {
+      color: gray;
+      font-size: 15px;
+      text-align: center;
+  }
+
+  .name {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      width: 100%;
+  }
+
+  .surname {
+      height: 40px;
+      flex: 1 1 45%;
+      min-width: 140px;
+      outline: none;
+      border: solid 1px rgb(204, 203, 203);
+      font-size: 15px;
+      padding: 10px;
+      border-radius: 8px;
+  }
+
+  .surname:focus {
+      outline: 1px solid black;
+  }
+
+  .date {
+      display: flex;
+      gap: 15px;
+      flex-wrap: wrap;
+      width: 100%;
+  }
+
+  .birth {
+      font-size: 12px;
+      color: rgb(61, 61, 61);
+  }
+
+  .sep {
+      height: 40px;
+      flex: 1 1 30%;
+      min-width: 90px;
+      outline: none;
+      border: solid 1px rgb(204, 203, 203);
+      font-size: 15px;
+      padding: 10px;
+      border-radius: 8px;
+  }
+
+  .sep:focus {
+      outline: 1px solid black;
+  }
+
+  .custom {
+      display: flex;
+      gap: 15px;
+      border: solid 1px rgb(204, 203, 203);
+      padding: 10px;
+      border-radius: 8px;
+      flex-wrap: wrap;
+  }
+
+  .male {
+      font-size: 15px;
+  }
+
+  .gp {
+      font-size: 12px;
+      color: rgb(61, 61, 61);
+  }
+
+  .noun {
+      height: 40px;
+      width: 100%;
+      outline: none;
+      border: solid 1px rgb(204, 203, 203);
+      font-size: 15px;
+      padding: 10px;
+      border-radius: 8px;
+  }
+
+  .noun:focus {
+      outline: 1px solid black;
+  }
+
+  .pp {
+      font-size: 12px;
+      color: rgb(61, 61, 61);
+  }
+
+  .password {
+      flex-direction: column;
+      display: flex;
+      gap: 10px;
+      width: 100%;
+  }
+
+  .gay {
+      height: 40px;
+      width: 100%;
+      outline: none;
+      border: solid 1px rgb(204, 203, 203);
+      font-size: 15px;
+      padding: 10px;
+      border-radius: 8px;
+  }
+
+  .gay:focus {
+      outline: 1px solid black;
+  }
+
+  .sp {
+      font-size: 10px;
+      color: rgb(61, 61, 61);
+      text-align: center;
+  }
+
+  span {
+      color: #0866ff;
+  }
+
+  .sign {
+      font-family: Arial;
+      font-size: 17px;
+      text-decoration: none;
+      color: white;
+      text-align: center;
+      border-radius: 4px;
+      font-weight: 700;
+      padding: 10px;
+      width: 200px;
+      background-color: #42b72a;
+  }
+
+  .app {
+      color: #0866ff;
+  }
+
+  .app:hover {
+      text-decoration: underline;
+  }
+
+  /* ============================= */
+  /* Responsive Breakpoints */
+  /* ============================= */
+
+  /* Tablets */
+  @media (max-width: 768px) {
+      .main-content {
+          flex-direction: column;
+          align-items: center;
+          text-align: center;
+      }
+
+      .main-content h1 {
+          font-size: 40px;
+      }
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+      .main-content h1 {
+          font-size: 30px;
+      }
+
+      form {
+          padding: 15px;
+          gap: 15px;
+      }
+
+      .sign {
+          width: 100%;
+      }
+  }
