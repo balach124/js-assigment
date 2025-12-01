@@ -35,6 +35,8 @@ This repo includes all my JavaScript practice assignments, covering the basics t
 | 1️⃣4️⃣ | Assigment-12 | [View](https://js-12-assigment.netlify.app/) |
 | 1️⃣5️⃣ | Assigment-13 | [View](https://js-13-assigment.netlify.app/) |
 | 1️⃣6️⃣ | Calculator-Assigment | [View](https://caiculator-assigment.netlify.app/) |
+| 1️⃣7️⃣ | Assigment-14 | [View](https://js-14-assigment.netlify.app/) |
+| 1️⃣8️⃣ | Facebook-Assigment | [View](https://js-faceb00k-assigment.netlify.app/) |
 
 ## 🧠 Purpose
 These assignments help me strengthen my **JavaScript fundamentals**, improve **problem-solving skills**, and build a solid base for **front-end and back-end development**.
